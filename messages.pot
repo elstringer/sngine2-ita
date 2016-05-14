@@ -2672,7 +2672,7 @@ msgstr "Ultima vista"
 #: content/themes/material/templates/__feeds_post.comment.tpl:58
 #: content/themes/material/templates/__feeds_post.tpl:369
 msgid "Unlike"
-msgstr "A differenza di"
+msgstr "Non mi piace più"
 
 #: content/themes/default/templates/ajax.lightbox_actions.tpl:6
 #: content/themes/default/templates/ajax.popover.tpl:123
@@ -2698,7 +2698,7 @@ msgstr "Mi piace"
 #: content/themes/material/templates/ajax.lightbox_actions.tpl:8
 #: content/themes/material/templates/__feeds_post.tpl:373
 msgid "Comment"
-msgstr "Commento"
+msgstr "Commenta"
 
 #: content/themes/default/templates/ajax.lightbox_footer.tpl:7
 #: content/themes/default/templates/profile.tpl:347
