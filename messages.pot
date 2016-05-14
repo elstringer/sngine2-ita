@@ -2707,14 +2707,14 @@ msgstr "Commenta"
 #: content/themes/material/templates/profile.tpl:353
 #: content/themes/material/templates/__feeds_post.tpl:408
 msgid "people"
-msgstr "persone"
+msgstr " "
 
 #: content/themes/default/templates/ajax.lightbox_footer.tpl:7
 #: content/themes/default/templates/__feeds_post.tpl:408
 #: content/themes/material/templates/ajax.lightbox_footer.tpl:7
 #: content/themes/material/templates/__feeds_post.tpl:408
 msgid "like this"
-msgstr "piace"
+msgstr " "
 
 #: content/themes/default/templates/ajax.mutual_friends.tpl:3
 #: content/themes/default/templates/profile.tpl:196
