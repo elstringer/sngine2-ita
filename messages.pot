@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-04-30 04:31+0200\n"
-"PO-Revision-Date: 2016-04-30 04:33+0200\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2016-05-14 04:31+0200\n"
+"PO-Revision-Date: 2016-05-14 04:33+0200\n"
+"Last-Translator: Fabrizio Salmi <fabrizio.salmi@gmail.com>\n"
+"Language-Team: undefined \n"
 "Language: it_IT\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: \n"
-"X-Generator: Poedit 1.7.3\n"
+"X-Generator: Github web editor\n"
 
 #: activation.php:25 friend_requests.php:37 game.php:36 group.php:54
 #: group.php:65 index.php:140 messages.php:31 messages.php:43
@@ -67,7 +67,7 @@ msgstr "Messaggio di sistema"
 #: includes/ajax/admin/theme.php:18 includes/ajax/admin/user.php:18
 #: includes/ajax/admin/widgets.php:18
 msgid "You don't have the right permission to access this"
-msgstr "Non hai l'autorizzazione appropriata per accedere a questa"
+msgstr "Non hai l'autorizzazione per accedere a questa risorsa"
 
 #: admin.php:27 content/themes/default/templates/index.tpl:155
 #: content/themes/default/templates/_header.tpl:39
@@ -104,7 +104,7 @@ msgstr "Impostazioni"
 #: content/themes/material/templates/admin.themes.tpl:11
 #: content/themes/material/templates/admin.tpl:33
 msgid "Themes"
-msgstr "Tematiche"
+msgstr "Temi"
 
 #: admin.php:118 admin.php:173 admin.php:388 admin.php:551 admin.php:601
 #: admin.php:651 admin.php:702 content/themes/default/templates/admin.tpl:44
@@ -162,7 +162,7 @@ msgstr "Amministratori"
 #: admin.php:221 content/themes/default/templates/admin.users.tpl:210
 #: content/themes/material/templates/admin.users.tpl:210
 msgid "Moderators"
-msgstr "Moderatori:"
+msgstr "Moderatori"
 
 #: admin.php:238 content/themes/default/templates/admin.dashboard.tpl:23
 #: content/themes/default/templates/admin.users.tpl:490
@@ -232,7 +232,7 @@ msgstr "Verificato"
 #: content/themes/material/templates/admin.reports.tpl:4
 #: content/themes/material/templates/admin.tpl:177
 msgid "Reports"
-msgstr "Rapporti"
+msgstr "Segnalazioni"
 
 #: admin.php:515 admin.php:546 admin.php:551
 #: content/themes/default/templates/admin.static.tpl:11
@@ -287,14 +287,14 @@ msgstr "Richiesta di amicizia"
 #: includes/class-user.php:3287 includes/class-user.php:3528
 #: includes/class-user.php:3970 includes/class-user.php:4028
 msgid "Welcome to"
-msgstr "Benvenuto alla"
+msgstr "Benvenuto su"
 
 #: index.php:81 content/themes/default/templates/index.tpl:253
 #: content/themes/default/templates/index.tpl:263
 #: content/themes/material/templates/index.tpl:256
 #: content/themes/material/templates/index.tpl:266
 msgid "Search"
-msgstr "Ricerca"
+msgstr "Cerca"
 
 #: index.php:106 content/themes/default/templates/index.tpl:197
 #: content/themes/default/templates/index.tpl:377
@@ -316,7 +316,7 @@ msgstr "Crea pagina"
 #: content/themes/material/templates/index.tpl:503
 #: content/themes/material/templates/_header.tpl:137
 msgid "Create Group"
-msgstr "Creare un gruppo"
+msgstr "Crea gruppo"
 
 #: messages.php:16 content/themes/default/templates/admin.dashboard.tpl:101
 #: content/themes/default/templates/index.tpl:170
@@ -378,7 +378,7 @@ msgstr "Account collegati"
 #: settings.php:43 content/themes/default/templates/settings.tpl:29
 #: content/themes/material/templates/settings.tpl:29
 msgid "Blocking"
-msgstr "Invalidante"
+msgstr "Bloccante"
 
 #: settings.php:56 content/themes/default/templates/admin.settings.tpl:322
 #: content/themes/default/templates/settings.tpl:33
@@ -417,7 +417,7 @@ msgstr "Per Iniziare"
 #: content/themes/default/templates/admin.ads.tpl:6
 #: content/themes/material/templates/admin.ads.tpl:6
 msgid "Add New Ads"
-msgstr "Aggiungere nuovi annunci"
+msgstr "Aggiungi nuovi annunci"
 
 #: content/themes/default/templates/admin.ads.tpl:21
 #: content/themes/default/templates/admin.categories.tpl:21
@@ -551,7 +551,7 @@ msgstr "Azioni"
 #: content/themes/material/templates/admin.widgets.tpl:70
 #: content/themes/material/templates/admin.widgets.tpl:124
 msgid "Home Page"
-msgstr "Pagina Home"
+msgstr "Home"
 
 #: content/themes/default/templates/admin.ads.tpl:35
 #: content/themes/default/templates/admin.ads.tpl:73
@@ -566,7 +566,7 @@ msgstr "Pagina Home"
 #: content/themes/material/templates/admin.widgets.tpl:71
 #: content/themes/material/templates/admin.widgets.tpl:125
 msgid "Friends Requests Page"
-msgstr "Pagina di richieste di amici"
+msgstr "Richieste di amicizia"
 
 #: content/themes/default/templates/admin.ads.tpl:36
 #: content/themes/default/templates/admin.ads.tpl:74
@@ -596,7 +596,7 @@ msgstr "Pagina notifiche"
 #: content/themes/material/templates/admin.widgets.tpl:73
 #: content/themes/material/templates/admin.widgets.tpl:127
 msgid "Post Page"
-msgstr "Inviare pagina"
+msgstr "Pubblica pagina"
 
 #: content/themes/default/templates/admin.ads.tpl:38
 #: content/themes/default/templates/admin.ads.tpl:76
@@ -717,7 +717,7 @@ msgid ""
 "When you add mutiple ads at the samle location, they will be displayed "
 "randomly"
 msgstr ""
-"Quando si aggiungono gli annunci mutiple nella posizione samle, verranno "
+"Annunci multipli nella stessa posizione verranno "
 "visualizzati in modo casuale"
 
 #: content/themes/default/templates/admin.categories.tpl:6
@@ -753,12 +753,12 @@ msgstr "Nome"
 #: content/themes/material/templates/admin.dashboard.tpl:3
 #: content/themes/material/templates/admin.tpl:17
 msgid "Dashboard"
-msgstr "Area Personale"
+msgstr "Dashboard"
 
 #: content/themes/default/templates/admin.dashboard.tpl:9
 #: content/themes/material/templates/admin.dashboard.tpl:9
 msgid "New users last week"
-msgstr "Nuovi utenti la scorsa settimana"
+msgstr "Nuovi utenti della scorsa settimana"
 
 #: content/themes/default/templates/admin.dashboard.tpl:19
 #: content/themes/material/templates/admin.dashboard.tpl:19
@@ -806,7 +806,7 @@ msgstr "Articoli"
 #: content/themes/material/templates/admin.dashboard.tpl:58
 #: content/themes/material/templates/admin.dashboard.tpl:68
 msgid "Manage Reports"
-msgstr "Gestione di report"
+msgstr "Gestione delle segnalazioni"
 
 #: content/themes/default/templates/admin.dashboard.tpl:67
 #: content/themes/material/templates/admin.dashboard.tpl:67
@@ -834,19 +834,19 @@ msgstr "Gestisce i gruppi"
 #: content/themes/default/templates/admin.design.tpl:12
 #: content/themes/material/templates/admin.design.tpl:12
 msgid "Website Logo"
-msgstr "Logo Sito"
+msgstr "Logo del sito"
 
 #: content/themes/default/templates/admin.design.tpl:35
 #: content/themes/material/templates/admin.design.tpl:35
 msgid "The perfect size for your logo should be (wdith: 60px & height: 46px)"
 msgstr ""
-"Dovrebbe essere la dimensione ideale per il vostro logo (wdith: 60px & "
+"Dimensioni logo larghezza: 60px & "
 "altezza: 46px)"
 
 #: content/themes/default/templates/admin.design.tpl:44
 #: content/themes/material/templates/admin.design.tpl:44
 msgid "Enable Customization"
-msgstr "Consentire la personalizzazione"
+msgstr "Attiva personalizzazione"
 
 #: content/themes/default/templates/admin.design.tpl:52
 #: content/themes/material/templates/admin.design.tpl:52
@@ -856,34 +856,34 @@ msgstr "Attivare o disattivare la personalizzazione"
 #: content/themes/default/templates/admin.design.tpl:59
 #: content/themes/material/templates/admin.design.tpl:59
 msgid "Background Color"
-msgstr "Colore Sfondo"
+msgstr "Colore di sfondo"
 
 #: content/themes/default/templates/admin.design.tpl:71
 #: content/themes/material/templates/admin.design.tpl:71
 msgid "Link Color"
-msgstr "Colore Link"
+msgstr "Colore link"
 
 #: content/themes/default/templates/admin.design.tpl:83
 #: content/themes/material/templates/admin.design.tpl:83
 msgid "Header Color"
-msgstr "Colore intestazione"
+msgstr "Colore header"
 
 #: content/themes/default/templates/admin.design.tpl:95
 #: content/themes/material/templates/admin.design.tpl:95
 msgid "Header Search Background"
-msgstr "Sfondo del riquadro di  Ricerca sulla Testata"
+msgstr "Colore di sfondo del motore di ricerca"
 
 #: content/themes/default/templates/admin.design.tpl:107
 #: content/themes/default/templates/admin.design.tpl:119
 #: content/themes/material/templates/admin.design.tpl:107
 #: content/themes/material/templates/admin.design.tpl:119
 msgid "Button Primary"
-msgstr "pulsante principale"
+msgstr "Bottone principale"
 
 #: content/themes/default/templates/admin.games.tpl:6
 #: content/themes/material/templates/admin.games.tpl:6
 msgid "Add New game"
-msgstr "Aggiungere nuovo gioco"
+msgstr "Aggiungi nuovo gioco"
 
 #: content/themes/default/templates/admin.games.tpl:22
 #: content/themes/default/templates/admin.games.tpl:86
@@ -923,12 +923,12 @@ msgstr "Sorgente del gioco"
 #: content/themes/material/templates/admin.games.tpl:80
 #: content/themes/material/templates/admin.games.tpl:152
 msgid "The source link of your embedded game"
-msgstr "Link della fonte del vostro gioco incorporato"
+msgstr "Il link per il codice del gioco incorporato"
 
 #: content/themes/default/templates/admin.groups.tpl:6
 #: content/themes/material/templates/admin.groups.tpl:6
 msgid "Go to this group"
-msgstr "Vai a questo gruppo"
+msgstr "Vai al gruppo"
 
 #: content/themes/default/templates/admin.groups.tpl:21
 #: content/themes/default/templates/admin.pages.tpl:21
@@ -1016,7 +1016,7 @@ msgstr "Info Gruppo"
 #: content/themes/material/templates/signup.tpl:53
 #: content/themes/material/templates/signup_social.tpl:20
 msgid "Username"
-msgstr "Nome utente"
+msgstr "URL utente"
 
 #: content/themes/default/templates/admin.languages.tpl:6
 #: content/themes/material/templates/admin.languages.tpl:6
@@ -1105,7 +1105,7 @@ msgstr "No"
 #: content/themes/material/templates/admin.languages.tpl:80
 #: content/themes/material/templates/admin.languages.tpl:178
 msgid "Make it the default language of the site"
-msgstr "Rendono la lingua predefinita del sito"
+msgstr "Imposta come lingua predefinita per il sito"
 
 #: content/themes/default/templates/admin.languages.tpl:94
 #: content/themes/default/templates/admin.languages.tpl:192
@@ -1113,14 +1113,14 @@ msgstr "Rendono la lingua predefinita del sito"
 #: content/themes/material/templates/admin.languages.tpl:192
 msgid "Make it enbaled so the user can translate the site to it"
 msgstr ""
-"Fare enbaled in modo che l'utente in grado di tradurre il sito ad esso"
+"Abilita per consentire la traduzione"
 
 #: content/themes/default/templates/admin.languages.tpl:105
 #: content/themes/default/templates/admin.languages.tpl:203
 #: content/themes/material/templates/admin.languages.tpl:105
 #: content/themes/material/templates/admin.languages.tpl:203
 msgid "Language country_code"
-msgstr "Lingua country_code"
+msgstr "Codice paese della lingua"
 
 #: content/themes/default/templates/admin.languages.tpl:105
 #: content/themes/default/templates/admin.languages.tpl:127
@@ -1163,21 +1163,21 @@ msgstr "Il nome nativo di questa lingua"
 #: content/themes/material/templates/admin.languages.tpl:122
 #: content/themes/material/templates/admin.languages.tpl:220
 msgid "Flag Code"
-msgstr "Bandiera codice"
+msgstr "Codice bandiera"
 
 #: content/themes/default/templates/admin.languages.tpl:127
 #: content/themes/default/templates/admin.languages.tpl:225
 #: content/themes/material/templates/admin.languages.tpl:127
 #: content/themes/material/templates/admin.languages.tpl:225
 msgid "The country flag code"
-msgstr "Il codice di bandiera del paese"
+msgstr "Codice bandiera del paese"
 
 #: content/themes/default/templates/admin.languages.tpl:133
 #: content/themes/default/templates/admin.languages.tpl:231
 #: content/themes/material/templates/admin.languages.tpl:133
 #: content/themes/material/templates/admin.languages.tpl:231
 msgid "Direction"
-msgstr "Istruzioni"
+msgstr "Direzione"
 
 #: content/themes/default/templates/admin.languages.tpl:141
 #: content/themes/default/templates/admin.languages.tpl:239
@@ -1185,18 +1185,18 @@ msgstr "Istruzioni"
 #: content/themes/material/templates/admin.languages.tpl:239
 msgid "The direction of this language 'Left To Right' or 'Right To Left'"
 msgstr ""
-"La direzione di questa lingua 'Da sinistra a destra' o 'Right To Left'"
+"La direzione di questa lingua 'Da sinistra a destra' o 'destra a sinistra'"
 
 #: content/themes/default/templates/admin.languages.tpl:165
 #: content/themes/material/templates/admin.languages.tpl:165
 msgid "Before add a new language you need to know 'gettext'"
 msgstr ""
-"Prima di aggiungere una nuova lingua che è necessario conoscere 'gettext'"
+"Prima di aggiungere una nuova lingua devi conoscere 'gettext'"
 
 #: content/themes/default/templates/admin.pages.tpl:6
 #: content/themes/material/templates/admin.pages.tpl:6
 msgid "Go to this page"
-msgstr "Vai a questa pagina"
+msgstr "Vai alla pagina"
 
 #: content/themes/default/templates/admin.pages.tpl:24
 #: content/themes/default/templates/admin.pages.tpl:88
@@ -1245,12 +1245,12 @@ msgstr "Categoria"
 #: content/themes/default/templates/admin.reports.tpl:12
 #: content/themes/material/templates/admin.reports.tpl:12
 msgid "Reporter Picture"
-msgstr "Foto reporter"
+msgstr "Segnala foto"
 
 #: content/themes/default/templates/admin.reports.tpl:13
 #: content/themes/material/templates/admin.reports.tpl:13
 msgid "Reporter Name"
-msgstr "Nome del reporter"
+msgstr "Chi ha segnalato"
 
 #: content/themes/default/templates/admin.reports.tpl:14
 #: content/themes/material/templates/admin.reports.tpl:14
@@ -1290,7 +1290,7 @@ msgstr "E-mail"
 #: content/themes/material/templates/_js_templates.tpl:423
 #: content/themes/material/templates/_js_templates.tpl:451
 msgid "Chat"
-msgstr "&Chat"
+msgstr "Chat"
 
 #: content/themes/default/templates/admin.settings.tpl:32
 #: content/themes/material/templates/admin.settings.tpl:32
@@ -1315,12 +1315,12 @@ msgstr "Analytics"
 #: content/themes/default/templates/admin.settings.tpl:60
 #: content/themes/material/templates/admin.settings.tpl:60
 msgid "Website Live"
-msgstr "Sito Web dal vivo"
+msgstr "Sito operativo"
 
 #: content/themes/default/templates/admin.settings.tpl:68
 #: content/themes/material/templates/admin.settings.tpl:68
 msgid "Turn the entire website On and Off"
-msgstr "Attivare o disattivare l'intero sito Web"
+msgstr "Attivare o disattivare il sito"
 
 #: content/themes/default/templates/admin.settings.tpl:75
 #: content/themes/material/templates/admin.settings.tpl:75
@@ -1335,24 +1335,24 @@ msgstr "Il testo che viene visualizzato quando il sito è chiuso"
 #: content/themes/default/templates/admin.settings.tpl:87
 #: content/themes/material/templates/admin.settings.tpl:87
 msgid "Website Public"
-msgstr "Sito Web pubblico"
+msgstr "Sito pubblico"
 
 #: content/themes/default/templates/admin.settings.tpl:95
 #: content/themes/material/templates/admin.settings.tpl:95
 msgid "Disable it to prevent non logged users to view website"
 msgstr ""
-"Disabilitarlo per impedire agli utenti non registrati per visualizzare il "
-"sito Web"
+"Disabilitare per restringere il sito agli utenti registrati"
+""
 
 #: content/themes/default/templates/admin.settings.tpl:102
 #: content/themes/material/templates/admin.settings.tpl:102
 msgid "Cache System"
-msgstr "File system cache"
+msgstr "Cache di sistema"
 
 #: content/themes/default/templates/admin.settings.tpl:110
 #: content/themes/material/templates/admin.settings.tpl:110
 msgid "Enable cache system to speed up your website"
-msgstr "Abilitare la cache di sistema velocizzare il tuo sito Web"
+msgstr "Abilitare la cache di sistema per velocizzare il sito"
 
 #: content/themes/default/templates/admin.settings.tpl:119
 #: content/themes/material/templates/admin.settings.tpl:119
@@ -1362,22 +1362,22 @@ msgstr "Titolo del sito"
 #: content/themes/default/templates/admin.settings.tpl:124
 #: content/themes/material/templates/admin.settings.tpl:124
 msgid "Title of your website"
-msgstr "Titolo del tuo sito Web"
+msgstr "Titolo del sito"
 
 #: content/themes/default/templates/admin.settings.tpl:131
 #: content/themes/material/templates/admin.settings.tpl:131
 msgid "Website Description"
-msgstr "Descrizione del Sito web"
+msgstr "Descrizione del sito"
 
 #: content/themes/default/templates/admin.settings.tpl:136
 #: content/themes/material/templates/admin.settings.tpl:136
 msgid "Description of your website"
-msgstr "Descrizione del tuo sito Web"
+msgstr "Descrizione del sito"
 
 #: content/themes/default/templates/admin.settings.tpl:144
 #: content/themes/material/templates/admin.settings.tpl:144
 msgid "Website Keywords"
-msgstr "Website Parole"
+msgstr "Parole chiave del sito"
 
 #: content/themes/default/templates/admin.settings.tpl:149
 #: content/themes/material/templates/admin.settings.tpl:149
@@ -1387,17 +1387,17 @@ msgstr "Esempio: sociale, sngine, sito di social"
 #: content/themes/default/templates/admin.settings.tpl:156
 #: content/themes/material/templates/admin.settings.tpl:156
 msgid "Website Path"
-msgstr "Percorso del sito Web"
+msgstr "Percorso del sito"
 
 #: content/themes/default/templates/admin.settings.tpl:161
 #: content/themes/material/templates/admin.settings.tpl:161
 msgid "The path of your system"
-msgstr "Il percorso del vostro sistema"
+msgstr "Il percorso sul sistema"
 
 #: content/themes/default/templates/admin.settings.tpl:168
 #: content/themes/material/templates/admin.settings.tpl:168
 msgid "Uploads Directory"
-msgstr "Directory Upload"
+msgstr "Directory di upload"
 
 #: content/themes/default/templates/admin.settings.tpl:173
 #: content/themes/material/templates/admin.settings.tpl:173
@@ -1407,12 +1407,12 @@ msgstr "Il percorso della directory di upload"
 #: content/themes/default/templates/admin.settings.tpl:182
 #: content/themes/material/templates/admin.settings.tpl:182
 msgid "Pages Enabled"
-msgstr "Pagine abilitati"
+msgstr "Pagine abilitate"
 
 #: content/themes/default/templates/admin.settings.tpl:190
 #: content/themes/material/templates/admin.settings.tpl:190
 msgid "Users can create pages or only admins/moderators"
-msgstr "Gli utenti possono creare pagine o solo gli amministratori/moderatori"
+msgstr "Abilita la creazione delle pagine per tutti gli utenti"
 
 #: content/themes/default/templates/admin.settings.tpl:197
 #: content/themes/material/templates/admin.settings.tpl:197
@@ -1422,7 +1422,7 @@ msgstr "Gruppi abilitati"
 #: content/themes/default/templates/admin.settings.tpl:205
 #: content/themes/material/templates/admin.settings.tpl:205
 msgid "Users can create groups or only admins/moderators"
-msgstr "Gli utenti possono creare gruppi o solo gli amministratori/moderatori"
+msgstr "Abilita la creazione dei gruppi per tutti gli utenti"
 
 #: content/themes/default/templates/admin.settings.tpl:212
 #: content/themes/material/templates/admin.settings.tpl:212
@@ -1437,7 +1437,7 @@ msgstr "Attivare o disattivare la notifica di visita profilo"
 #: content/themes/default/templates/admin.settings.tpl:227
 #: content/themes/material/templates/admin.settings.tpl:227
 msgid "Games Enabled"
-msgstr "Giochi abilitati"
+msgstr "Giochi attivati"
 
 #: content/themes/default/templates/admin.settings.tpl:235
 #: content/themes/material/templates/admin.settings.tpl:235
@@ -1492,7 +1492,7 @@ msgstr "Conti/IP"
 #: content/themes/default/templates/admin.settings.tpl:342
 #: content/themes/material/templates/admin.settings.tpl:342
 msgid "Number of accounts allowed to register per IP (0 for unlimited)"
-msgstr "Numero di account autorizzato a registrare per IP (0 per illimitato)"
+msgstr "Registrazioni di account per IP consentite (0 per illimitato)"
 
 #: content/themes/default/templates/admin.settings.tpl:351
 #: content/themes/material/templates/admin.settings.tpl:351
@@ -1505,7 +1505,7 @@ msgid ""
 "Turn registration/login via social media (Facebook, Twitter and etc) On and "
 "Off"
 msgstr ""
-"Attivare e disattivare la registrazione/login attraverso i social media "
+"Attivare e disattivare la registrazione/login con i social media "
 "(Facebook, Twitter ed ecc)"
 
 #: content/themes/default/templates/admin.settings.tpl:367
@@ -1516,17 +1516,17 @@ msgstr "Accesso Facebook"
 #: content/themes/default/templates/admin.settings.tpl:375
 #: content/themes/material/templates/admin.settings.tpl:375
 msgid "Turn registration/login via Facebook On and Off"
-msgstr "Attivare la registrazione/login tramite Facebook On e Off"
+msgstr "Attivare la registrazione/login tramite Facebook"
 
 #: content/themes/default/templates/admin.settings.tpl:382
 #: content/themes/material/templates/admin.settings.tpl:382
 msgid "Facebook App ID"
-msgstr "ID app Facebook"
+msgstr "ID applicazione Facebook"
 
 #: content/themes/default/templates/admin.settings.tpl:391
 #: content/themes/material/templates/admin.settings.tpl:391
 msgid "Facebook App Secret"
-msgstr "Facebook App Segreto"
+msgstr "Chiave segreta applicazione Facebook"
 
 #: content/themes/default/templates/admin.settings.tpl:402
 #: content/themes/material/templates/admin.settings.tpl:402
@@ -1536,17 +1536,17 @@ msgstr "Accesso Twitter"
 #: content/themes/default/templates/admin.settings.tpl:410
 #: content/themes/material/templates/admin.settings.tpl:410
 msgid "Turn registration/login via Twitter On and Off"
-msgstr "Attivare la registrazione/login tramite Twitter On e Off"
+msgstr "Attivare la registrazione/login tramite Twitter"
 
 #: content/themes/default/templates/admin.settings.tpl:417
 #: content/themes/material/templates/admin.settings.tpl:417
 msgid "Twitter App ID"
-msgstr "Twitter App ID"
+msgstr "ID applicazione Twitter"
 
 #: content/themes/default/templates/admin.settings.tpl:426
 #: content/themes/material/templates/admin.settings.tpl:426
 msgid "Twitter App Secret"
-msgstr "Twitter App Segreto"
+msgstr "Chiave segreta applicazione Twitter"
 
 #: content/themes/default/templates/admin.settings.tpl:437
 #: content/themes/material/templates/admin.settings.tpl:437
@@ -1556,86 +1556,86 @@ msgstr "Accesso Google"
 #: content/themes/default/templates/admin.settings.tpl:445
 #: content/themes/material/templates/admin.settings.tpl:445
 msgid "Turn registration/login via Google On and Off"
-msgstr "Attivare la registrazione/login tramite Google On e Off"
+msgstr "Attivare la registrazione/login tramite Google"
 
 #: content/themes/default/templates/admin.settings.tpl:452
 #: content/themes/material/templates/admin.settings.tpl:452
 msgid "Google App ID"
-msgstr "Google App ID"
+msgstr "ID applicazione Google"
 
 #: content/themes/default/templates/admin.settings.tpl:461
 #: content/themes/material/templates/admin.settings.tpl:461
 msgid "Google App Secret"
-msgstr "Google App segreto"
+msgstr "Chiave segreta applicazione Google"
 
 #: content/themes/default/templates/admin.settings.tpl:472
 #: content/themes/material/templates/admin.settings.tpl:472
 msgid "Linkedin Login"
-msgstr "Login di LinkedIn"
+msgstr "Accesso LinkedIn"
 
 #: content/themes/default/templates/admin.settings.tpl:480
 #: content/themes/material/templates/admin.settings.tpl:480
 msgid "Turn registration/login via Linkedin On and Off"
-msgstr "Attivare la registrazione/login tramite Linkedin On e Off"
+msgstr "Attivare la registrazione/login tramite Linkedin"
 
 #: content/themes/default/templates/admin.settings.tpl:487
 #: content/themes/material/templates/admin.settings.tpl:487
 msgid "Linkedin App ID"
-msgstr "Linkedin App ID"
+msgstr "ID applicazione Linkedin"
 
 #: content/themes/default/templates/admin.settings.tpl:496
 #: content/themes/material/templates/admin.settings.tpl:496
 msgid "Linkedin App Secret"
-msgstr "Segreto di App di LinkedIn"
+msgstr "Chiave segreta applicazione LinkedIn"
 
 #: content/themes/default/templates/admin.settings.tpl:507
 #: content/themes/material/templates/admin.settings.tpl:507
 msgid "Vkontakte Login"
-msgstr "VKontakte Login"
+msgstr "Accesso VKontakte"
 
 #: content/themes/default/templates/admin.settings.tpl:515
 #: content/themes/material/templates/admin.settings.tpl:515
 msgid "Turn registration/login via Vkontakte On and Off"
-msgstr "Attivare la registrazione/login tramite Vkontakte On e Off"
+msgstr "Attivare la registrazione/login tramite Vkontakte"
 
 #: content/themes/default/templates/admin.settings.tpl:522
 #: content/themes/material/templates/admin.settings.tpl:522
 msgid "Vkontakte App ID"
-msgstr "Vkontakte App ID"
+msgstr "ID applicazione Vkontakte"
 
 #: content/themes/default/templates/admin.settings.tpl:531
 #: content/themes/material/templates/admin.settings.tpl:531
 msgid "Vkontakte App Secret"
-msgstr "VKontakte App segreto"
+msgstr "Chiave segreta applicazione VKontakte"
 
 #: content/themes/default/templates/admin.settings.tpl:561
 #: content/themes/material/templates/admin.settings.tpl:561
 msgid "SMTP Emails"
-msgstr "Messaggi di posta elettronica SMTP"
+msgstr "SMTP E-Mail"
 
 #: content/themes/default/templates/admin.settings.tpl:569
 #: content/themes/default/templates/admin.settings.tpl:594
 #: content/themes/material/templates/admin.settings.tpl:569
 #: content/themes/material/templates/admin.settings.tpl:594
 msgid "Enable/Disable SMTP email system"
-msgstr "Sistema di posta elettronica SMTP di abilitare/disabilitare"
+msgstr "Abilita SMTP per il sistema di posta elettronica"
 
 #: content/themes/default/templates/admin.settings.tpl:570
 #: content/themes/default/templates/admin.settings.tpl:595
 #: content/themes/material/templates/admin.settings.tpl:570
 #: content/themes/material/templates/admin.settings.tpl:595
 msgid "PHP mail() function will be used in case of disabled"
-msgstr "Funzione mail () PHP verrà utilizzata in caso di disabili"
+msgstr "Viene usato mail () PHP se SMTP viene disattivato"
 
 #: content/themes/default/templates/admin.settings.tpl:577
 #: content/themes/material/templates/admin.settings.tpl:577
 msgid "SMTP Server"
-msgstr "Simple Mail Transfer Protocol"
+msgstr "Server SMTP"
 
 #: content/themes/default/templates/admin.settings.tpl:586
 #: content/themes/material/templates/admin.settings.tpl:586
 msgid "SMTP Require Authentication"
-msgstr "SMTP richiede l'autenticazione"
+msgstr "Il server SMTP richiede autenticazione"
 
 #: content/themes/default/templates/admin.settings.tpl:602
 #: content/themes/material/templates/admin.settings.tpl:602
@@ -1645,7 +1645,7 @@ msgstr "Porta SMTP"
 #: content/themes/default/templates/admin.settings.tpl:611
 #: content/themes/material/templates/admin.settings.tpl:611
 msgid "SMTP Username"
-msgstr "SMTP Username"
+msgstr "Nome utente SMTP"
 
 #: content/themes/default/templates/admin.settings.tpl:620
 #: content/themes/material/templates/admin.settings.tpl:620
@@ -1660,7 +1660,7 @@ msgstr "Chat attivata"
 #: content/themes/default/templates/admin.settings.tpl:657
 #: content/themes/material/templates/admin.settings.tpl:657
 msgid "Turn the chat system On and Off"
-msgstr "Attivare o disattivare il sistema di chat"
+msgstr "Attiva o disattiva la chat"
 
 #: content/themes/default/templates/admin.settings.tpl:664
 #: content/themes/material/templates/admin.settings.tpl:664
@@ -2708,7 +2708,7 @@ msgstr "A differenza di"
 #: content/themes/material/templates/__feeds_post.comment.tpl:60
 #: content/themes/material/templates/__feeds_post.tpl:371
 msgid "Like"
-msgstr "Come"
+msgstr "Mi piace"
 
 #: content/themes/default/templates/ajax.lightbox_actions.tpl:8
 #: content/themes/default/templates/__feeds_post.tpl:373
@@ -2731,7 +2731,7 @@ msgstr "persone"
 #: content/themes/material/templates/ajax.lightbox_footer.tpl:7
 #: content/themes/material/templates/__feeds_post.tpl:408
 msgid "like this"
-msgstr "Clicca su Mi Piace"
+msgstr "piace"
 
 #: content/themes/default/templates/ajax.mutual_friends.tpl:3
 #: content/themes/default/templates/profile.tpl:196
@@ -2866,7 +2866,7 @@ msgstr "Richiesta di amicizia inviata"
 #: content/themes/material/templates/_js_translator.tpl:1
 #: content/themes/material/templates/__feeds_user.tpl:14
 msgid "Add Friend"
-msgstr "Aggiungi Amico"
+msgstr "Aggiungi"
 
 #: content/themes/default/templates/ajax.popover.tpl:76
 #: content/themes/default/templates/profile.tpl:82
@@ -2879,7 +2879,7 @@ msgstr "Aggiungi Amico"
 #: content/themes/material/templates/_js_translator.tpl:4
 #: content/themes/material/templates/__feeds_user.tpl:36
 msgid "Following"
-msgstr "Stai seguendo"
+msgstr "Segui"
 
 #: content/themes/default/templates/ajax.popover.tpl:81
 #: content/themes/default/templates/profile.tpl:87
@@ -2923,7 +2923,7 @@ msgstr "Aggiorna informazioni"
 #: content/themes/default/templates/ajax.who_likes.tpl:3
 #: content/themes/material/templates/ajax.who_likes.tpl:3
 msgid "People Who Like This"
-msgstr "A chi piace questo"
+msgstr "Piace a"
 
 #: content/themes/default/templates/ajax.who_shares.tpl:3
 #: content/themes/material/templates/ajax.who_shares.tpl:3
@@ -2982,7 +2982,7 @@ msgstr "Senza persone disponibili"
 #: content/themes/material/templates/_js_translator.tpl:13
 #: content/themes/material/templates/__feeds_group.tpl:16
 msgid "Join Group"
-msgstr "Accedi al gruppo"
+msgstr "Entra nel gruppo"
 
 #: content/themes/default/templates/group.tpl:73
 #: content/themes/default/templates/page.tpl:76
@@ -3002,7 +3002,7 @@ msgstr "‪Nome Organizzatore delle inserzioni"
 #: content/themes/material/templates/page.tpl:87
 #: content/themes/material/templates/profile.tpl:115
 msgid "Timeline"
-msgstr "Cronologia"
+msgstr "Timeline"
 
 #: content/themes/default/templates/group.tpl:136
 #: content/themes/material/templates/group.tpl:136
@@ -4757,7 +4757,7 @@ msgstr "Grazie"
 #: includes/ajax/data/report.php:45 includes/ajax/data/report.php:50
 #: includes/ajax/data/report.php:55
 msgid "Your report has been submitted"
-msgstr "﻿Il tuo rapporto è stato inviato"
+msgstr "Segnalazione inviatacome"
 
 #: includes/ajax/users/settings.php:44
 msgid "Done, Your username has been updated"
@@ -4774,7 +4774,7 @@ msgstr "La password personale è stata aggiornata."
 #: includes/ajax/users/settings.php:86 includes/ajax/users/settings.php:99
 #: includes/ajax/users/settings.php:112 includes/ajax/users/settings.php:126
 msgid "Done, Your profile info has been updated"
-msgstr "Fatto, le informazioni di profilo sono stata aggiornata"
+msgstr "Fatto, le informazioni di profilo sono state aggiornate"
 
 #: includes/ajax/users/settings.php:145 includes/ajax/users/settings.php:157
 msgid "Done, Your privacy settings have been updated"
@@ -4814,16 +4814,16 @@ msgstr "﻿inferiore"
 #~ msgstr "Google Analytics"
 
 #~ msgid "Google Analytics Code"
-#~ msgstr "Codice Google Analytics"
+#~ msgstr "Codice UA Google Analytics"
 
 #~ msgid "Newsletter"
 #~ msgstr "Newsletter"
 
 #~ msgid "What is on your mind?"
-#~ msgstr "Che cosa è sulla vostra mente?"
+#~ msgstr "Che pensi?"
 
 #~ msgid "The file type is not valid video, we support .mp4 only"
-#~ msgstr "Il tipo di file non è valido video, sosteniamo solo. MP4"
+#~ msgstr "Come video carica solo file in formato MP4"
 
 #~ msgid "'"
 #~ msgstr "'"
